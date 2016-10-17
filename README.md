@@ -1,1 +1,3 @@
 # UebungSoftwarePraktikum
+
+Ich rieche Streng!
