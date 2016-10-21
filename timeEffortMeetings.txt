@@ -1,0 +1,11 @@
+18.10.16
+-> UML-Diagramm, Rollenverteilung ##TODO## Rollenpreferenzen aufschreiben
+**120min***5 Mann**
+
+21.10.16
+->UML-Diagramm review, neu Modellieren
+Willy, Sven: Implementieren des UML Diagramms
+Anton,Manuel,Feng,Danny: Recherschieren der Aufgabengebiete welche sie Abdecken wollen.
+Danny: Organisieren einer UML Review, Zeitpläne erstellen, Überblick behalten
+***100min**6 Mann**
+

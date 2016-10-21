@@ -1,0 +1,3 @@
+Motor x hat Effizienz e (Grad der Umwandeln von Benzin in Bewegungsenergie)
+
+Motor produziert bei Geschwindigkeit v die Drehzahl d und einen Verbrauch Emission
