@@ -1,14 +1,14 @@
 ===== Anleitung zur GIT Einrichtung =====
 
 1. Window (Schnellzugriffsleiste oben) -> Show View -> Others.. --> Git --> Git Repositories
-2. unten links sollte sich jetzt etwas geˆffnet haben^^ --> Clone a Git repository
-3. bei URI: Git Link reinkopiern (z.B. "https://github.com/PaIIe/UebungSoftwarePraktikum" f¸r die ‹bung), Rest wird automatisch eingef¸gt, unten EUER Git-User und Passwort eingeben + Hacken bei Store in Security Store (erspart sp‰ter Schreibarbeit :D)
+2. unten links sollte sich jetzt etwas ge√∂ffnet haben^^ --> Clone a Git repository
+3. bei URI: Git Link reinkopiern (z.B. "https://github.com/PaIIe/UebungSoftwarePraktikum" f√ºr die √úbung), Rest wird automatisch eingef√ºgt, unten EUER Git-User und Passwort eingeben + Hacken bei Store in Security Store (erspart sp√§ter Schreibarbeit :D)
 4. Next --> Next --> wichtig: Haken bei "Import all exisitng Eclipse projects after clone finishes"!!!!! -> Finish
-5. Ordner-Baum sollte jetzt unten links eingef¸gt sein. Vor jeder ƒnderung / Arbeit / etc.. unbedingt PULLEN!!!!!!!! (mit Rechtsklick -> Pull), oben Links sollte das Projekt sein (hier neu Dateien einf¸gen, bzw an Dateien (z.B. Code) arbeiten)
+5. Ordner-Baum sollte jetzt unten links eingef√ºgt sein. Vor jeder √Ñnderung / Arbeit / etc.. unbedingt PULLEN!!!!!!!! (mit Rechtsklick -> Pull), oben Links sollte das Projekt sein (hier neu Dateien einf√ºgen, bzw an Dateien (z.B. Code) arbeiten)
 
-Dateien pushen: im Bereich oben links Rechtsklick auf Datei (neu, bearbeitet, etc.) -> Team -> Commit -> gew¸nschte Dateien von "unstaged Changes" zu "staged Changes" ziehen und COmmit Message verfassen
+Dateien pushen: im Bereich oben links Rechtsklick auf Datei (neu, bearbeitet, etc.) -> Team -> Commit -> gew√ºnschte Dateien von "unstaged Changes" zu "staged Changes" ziehen und COmmit Message verfassen
 
-
+EDIT1: wichtig noch vor jedem COMMIT auch PULLEN!!!!!!!!!!!!!!!
 
 
 
