@@ -1,0 +1,19 @@
+===== Anleitung zur GIT Einrichtung =====
+
+1. Window (Schnellzugriffsleiste oben) -> Show View -> Others.. --> Git --> Git Repositories
+2. unten links sollte sich jetzt etwas geöffnet haben^^ --> Clone a Git repository
+3. bei URI: Git Link reinkopiern (z.B. "https://github.com/PaIIe/UebungSoftwarePraktikum" für die Übung), Rest wird automatisch eingefügt, unten EUER Git-User und Passwort eingeben + Hacken bei Store in Security Store (erspart später Schreibarbeit :D)
+4. Next --> Next --> wichtig: Haken bei "Import all exisitng Eclipse projects after clone finishes"!!!!! -> Finish
+5. Ordner-Baum sollte jetzt unten links eingefügt sein. Vor jeder Änderung / Arbeit / etc.. unbedingt PULLEN!!!!!!!! (mit Rechtsklick -> Pull), oben Links sollte das Projekt sein (hier neu Dateien einfügen, bzw an Dateien (z.B. Code) arbeiten)
+
+Dateien pushen: im Bereich oben links Rechtsklick auf Datei (neu, bearbeitet, etc.) -> Team -> Commit -> gewünschte Dateien von "unstaged Changes" zu "staged Changes" ziehen und COmmit Message verfassen
+
+EDIT1: wichtig noch vor jedem COMMIT auch PULLEN!!!!!!!!!!!!!!!
+
+
+
+==========================================================================================================================
+Das sollte es erstmal soweit sein (glaube ich :D)
+bei weitern Fragen ruhig an mich stellen 
+
+Rechtschreibefehler bitte entschuldigen hatte Zeitdruck :P
