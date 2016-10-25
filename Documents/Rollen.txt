@@ -1,21 +1,29 @@
-Sven:   1. Programmieren / Testen / Strukturexperte
+Vorläufige festgelegte Rollen sind mit --"..."-- gekennzeichnet
+
+Sven:   1. --Programmieren-- / Testen / Strukturexperte
         noGo: Organisation, Kommunikation außerhalb der Gruppe
-Willy:  1. Programmieren / evtl. Dokumentation von Code
+Willy:  1. --Programmieren-- / evtl. Dokumentation von Code
         noGO: Tests
-Manuel: 1. Dokumentation / Qualität
+Manuel: 1. --Dokumentation-- / --Qualität--
+        --Experte für UML Diagrammtool--
+        
         2.(Unsicher) Domänenanalyst
         3.(wenig) Programmieren
-Feng:   1. Testen / Dokumentation(teilweise)
+       
+Feng:   1. --Testen-- / --Dokumentation(teilweise)--
         2. (wenig) Programmieren
-Anton:  Domainanalyst, Softwarearchitekt, Dokumentieren, Projektmanager
+Anton: -- Domainanalyst --, 
+       --Softwarearchitekt-- (Gesprächsleiter wenn es um Design entscheidungen geht)
+        Dokumentieren, Projektmanager
 
-Danny: 1. Organisatorisches, Gruppen/Äußere Kommunikation, Planung der Gruppenteilung, Aufgaben verteilen(wenns keiner macht)
-       2.Dokumentieren, Hilfestellung geben, Programmieren Domänenanalyst, Platformexperte, Produktmanager
+Danny: 1. --Organisatorisches-- --Gruppen/Äußere Kommunikation--, --Planung der Gruppenteilung--, Aufgaben verteilen(wenns keiner macht)
+       2.--Dokumentieren--, Hilfestellung geben, Programmieren Domänenanalyst, Platformexperte, Produktmanager
+       Für alles iwie ein bisschen zuständig.
        
 Zu Vergeben:
--Domainanalyst
+-Domainanalyst (Anton)
 -Modellierungsexperte
--Qualitätsmanager
+-Qualitätsmanager(Manu)
 -Testmanager
 -Produktmanager
--Dokumentationsmanager
+-Dokumentationsmanager(Danny)
