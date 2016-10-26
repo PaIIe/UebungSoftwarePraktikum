@@ -11,6 +11,7 @@ Manuel: 1. --Dokumentation-- / --Qualität--
         3.(wenig) Programmieren
        
 Feng:   1. --Testen-- / --Dokumentation(teilweise)--
+        würde anfallende arbeiten aufnehmen, ist sich unsicher welche Rolle passt. (Rollen durchprobieren?!)
         2. (wenig) Programmieren
 Anton: -- Domainanalyst --, 
        --Softwarearchitekt-- (Gesprächsleiter wenn es um Design entscheidungen geht)
@@ -24,6 +25,6 @@ Zu Vergeben:
 -Domainanalyst (Anton)
 -Modellierungsexperte
 -Qualitätsmanager(Manu)
--Testmanager
+-Testmanager(Sven, Gruppe an sich)
 -Produktmanager
 -Dokumentationsmanager(Danny)
