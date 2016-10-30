@@ -5,7 +5,7 @@ public class Diesel extends Motor{
 	
 	public double getVerbrauch()
 	{
-		return this.DieselVerb;
+		return DieselVerb;
 	}
 	public void setVerbrauch(double diesel)
 	{
