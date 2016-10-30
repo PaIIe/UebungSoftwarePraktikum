@@ -1,5 +1,14 @@
-package testpackage;
+package Abgastest.testpackage;
 
 public class Benzin extends Motor {
-	int BenzinVerb;
+	private double BenzinVerb;
+	
+	public double getVerbrauch()
+	{
+		return this.BenzinVerb;
+	}
+	public void setVerbrauch(double benzin)
+	{
+		this.BenzinVerb = benzin;
+	}
 }
