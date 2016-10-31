@@ -3,39 +3,44 @@ package Abgastest.testpackage;
 
 public class Fahrzeug implements Teststand {
 	
-	public enum color {
-		RED, GREEN, BLUE
+	/*public enum Color {
+		RED, 
+		GREEN, 
+		BLUE;
 	} 
 
-	public enum hersteller {
-		IW, SMW
+	public enum Hersteller {
+		IW, 
+		SMW;
 	}
 
-	public enum modell {
-		TENNIS, M6, SMARTTENNIS 
-	}
+	public enum Modell {
+		TENNIS, 
+		M6, 
+		SMARTTENNIS;
+	}*/
 	
-	private color Farbe;
-	private hersteller Hersteller;
-	private modell Modell;
+	private Color farbe;
+	private Hersteller hersteller;
+	private Modell modell;
 	
-	public color getFarbe() {
-		return Farbe;
+	public Color getFarbe() {
+		return farbe;
 	}
-	public void setFarbe(color farbe) {
-		Farbe = farbe;
+	public void setFarbe(Color f) {
+		farbe = f;
 	}
-	public hersteller getHersteller() {
-		return Hersteller;
+	public Hersteller getHersteller() {
+		return hersteller;
 	}
-	public void setHersteller(hersteller hersteller) {
-		Hersteller = hersteller;
+	public void setHersteller(Hersteller h) {
+		hersteller = h;
 	}
-	public modell getModell() {
-		return Modell;
+	public Modell getModell() {
+		return modell;
 	}
-	public void setModell(modell modell) {
-		Modell = modell;
+	public void setModell(Modell m) {
+		modell = m;
 	}
 	
 }
