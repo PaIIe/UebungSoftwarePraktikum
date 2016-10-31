@@ -4,7 +4,7 @@ public interface Teststand {
 	
 	public static void performCO2Test(Fahrzeug auto)
 	{
-		int[] speed = {20, 50, 70, 100, 120}; // Geschwindigkeiten Testwerte für Motor
+		int[] speed = new int[]{20, 50, 70, 100, 120}; // Geschwindigkeiten Testwerte für Motor
 		Motor motor = new Motor();
 		motor.setDrehzahl(speed);
 		motor.CO2Ausstoß();
