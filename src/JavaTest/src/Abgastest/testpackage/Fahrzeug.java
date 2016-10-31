@@ -3,23 +3,6 @@ package Abgastest.testpackage;
 
 public class Fahrzeug implements Teststand {
 	
-	/*public enum Color {
-		RED, 
-		GREEN, 
-		BLUE;
-	} 
-
-	public enum Hersteller {
-		IW, 
-		SMW;
-	}
-
-	public enum Modell {
-		TENNIS, 
-		M6, 
-		SMARTTENNIS;
-	}*/
-	
 	private Color farbe;
 	private Hersteller hersteller;
 	private Modell modell;

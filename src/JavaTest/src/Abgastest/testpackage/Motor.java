@@ -14,10 +14,17 @@ public class Motor {
 	
 	void setDrehzahl(int[] Geschwindigkeit) // gehen von ganzahligen Geschwindigkeiten aus
 	{
-		for (int i = 0; i < 5; i++)
-		{
-			drehzahl[i] = Geschwindigkeit[i] * 10;
-			System.out.printf("Geschwindigkeit : %d\n, Drehzahl: %d\n", Geschwindigkeit[i], drehzahl[i]);
+		drehzahl = new int[5];
+		try{
+			for (int i = 0; i < 5; i++)
+			{
+				drehzahl[i] = Geschwindigkeit[i] * 10;
+				System.out.printf("Geschwindigkeit : %d\n, Drehzahl: %d\n", Geschwindigkeit[i], drehzahl[i]);
+			}
+		}
+		/*DEBUG*/
+		catch(NullPointerException e){
+			throw new IllegalStateException("Speed has a Null porperty", e);
 		}
 		
 	}
