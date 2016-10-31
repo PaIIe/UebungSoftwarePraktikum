@@ -2,17 +2,6 @@ package Abgastest.testpackage;
 
 public interface Teststand {
 	
-	public enum color {
-		RED, GREEN, BLUE
-	} 
-
-	public enum hersteller {
-		IW, SMW
-	}
-
-	public enum modell {
-		TENNIS, M6, SMARTTENNIS 
-	}
 	public static void performCO2Test(Fahrzeug auto)
 	{
 		int[] speed = {20, 50, 70, 100, 120}; // Geschwindigkeiten Testwerte für Motor
@@ -33,8 +22,13 @@ public interface Teststand {
 		auto2.setFarbe(Color.GREEN);
 		auto2.setHersteller(Hersteller.SMW);
 		auto2.setModell(Modell.M6);
+		Fahrzeug auto3 = new Fahrzeug();
+		auto3.setFarbe(Color.BLUE);
+		auto3.setHersteller(Hersteller.IW);
+		auto3.setModell(Modell.SMARTTENNIS);
 		performCO2Test(auto1);
 		performCO2Test(auto2);
+		performCO2Test(auto3);
 		
 	}
 }
